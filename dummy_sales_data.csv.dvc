@@ -1,0 +1,5 @@
+outs:
+- md5: 75c7c0f3f61ef52e29dc7d0c1b6d73a9
+  size: 795
+  hash: md5
+  path: dummy_sales_data.csv
